@@ -35,7 +35,7 @@ cd KVIHACKER
 ```
 Run code, using instruction that i've described at the top:
 ```Bash
-python3 app.py [-h] [-imagine IMAGINE] [-name NAME] [-ip IP] [-fake FAKE] -m M [-t TARGET] [-p PORT] [-np NUM_PACKETS]
+python3 main.py [-h] [-imagine IMAGINE] [-name NAME] [-ip IP] [-fake FAKE] -m M [-t TARGET] [-p PORT] [-np NUM_PACKETS]
                [-ps PACKET_SIZE] [-url URL]
 ```
 
