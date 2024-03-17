@@ -38,7 +38,7 @@ pip install argparse halo bs4 faker scapy
 ```
 Clone repository:
 ```Bash
-git clone https://github.com/Vasiliy-katsyka/KVIHACKER
+git clone https://github.com/Vasiliy-katsyka/KVIHACKER](https://github.com/Vasiliy-katsyka/KVIHACKER.git
 cd KVIHACKER
 ```
 Run code, using instruction that i've described at the top:
